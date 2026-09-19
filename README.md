@@ -44,48 +44,9 @@ This experiment demonstrates **Quadrature Phase Shift Keying (QPSK)**, where two
 
 This experiment implements **4-QAM (Quadrature Amplitude Modulation)** using complex I/Q symbols. The flowgraph allows different practical impairments such as frequency offset, phase noise, I/Q magnitude imbalance, and phase imbalance to be introduced and adjusted. The resulting constellation and eye diagram provide a visual representation of how these impairments affect a digital communication signal.
 
-## Tools Used
 
-* **GNU Radio Companion (GRC)**
-* Python
-* GNU Radio QT GUI
-* Digital & Analog Signal Processing Blocks
-* Channel and Noise Models
 
-## Topics Covered
 
-* Signal Generation
-* Time and Frequency Domain Analysis
-* Sinc Signals
-* Baseband Processing
-* Amplitude Modulation (AM)
-* Frequency Modulation (FM)
-* Amplitude Shift Keying (ASK)
-* Binary Phase Shift Keying (BPSK)
-* BPSK with Noise
-* Quadrature Phase Shift Keying (QPSK)
-* 4-QAM
-* Constellation Analysis
-* Eye Diagram Analysis
-* Channel Impairments
-* Noise and Signal Distortion
 
-## Repository Structure
-
-```text
-GNU-Radio-Experiments/
-│
-├── sincexp.grc
-├── Baseband_Signal.grc
-├── AM_Test.grc
-├── FMMOD.grc
-├── ASK1.grc
-├── ASK.grc
-├── BPSK2.grc
-├── BPSKWITHNOISE.grc
-├── QPSK1.grc
-├── QAM_Test.grc
-└── README.md
-```
 
 
