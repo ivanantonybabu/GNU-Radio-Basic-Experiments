@@ -1,6 +1,6 @@
 # GNU Radio Experiments
 
-This repository contains a collection of **GNU Radio Companion (GRC) experiments** developed while learning and exploring fundamental concepts in **Software Defined Radio (SDR), signal processing, analog modulation, and digital modulation**. The experiments progress from basic signal generation and signal analysis to practical implementations of AM, FM, ASK, BPSK, QPSK, and QAM, including the effect of noise and channel impairments. For installation guide refer [📄 Radioconda Installation Guide](./Radioconda%20Installation%20Steps.pdf)
+This repository contains a collection of **GNU Radio Companion (GRC) experiments** developed while learning and exploring fundamental concepts in **Software Defined Radio (SDR), signal processing, analog modulation, and digital modulation**. The experiments progress from basic signal generation and signal analysis to practical implementations of AM, FM, ASK, BPSK, QPSK, and QAM, including the effect of noise and channel impairments. For installation guide refer [📄 Radioconda Installation Guide](./radioconda-installation-guide.pdf)
 ## Experiments
 
 ### 1. Sinc Signal Experiment — `sincexp.grc`
